@@ -1,0 +1,18 @@
+# Core AI and Machine Learning
+transformers[torch]
+datasets
+huggingface-hub
+accelerate
+
+# Code Parsing
+tree-sitter
+tree-sitter-languages
+
+# For potential UI/API later (good to have ready)
+fastapi
+uvicorn[standard]
+streamlit
+
+# Utilities
+tqdm
+requests
