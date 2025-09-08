@@ -1,4 +1,4 @@
-# SecureCode AI: LLM-Powered Vulnerability Scanner
+# Vuln-Guardian: LLM-Powered Vulnerability Scanner
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
