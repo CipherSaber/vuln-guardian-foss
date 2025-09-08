@@ -81,7 +81,7 @@ python scan.py ./path/to/test_buffer_overflow.c
 
 **Example Output:**
 ```
-[*] Loading model 'jacpacd/vuln-detector-codebert-c-sard' from Hugging Face Hub...
+[*] Loading model 'jacpacd/vuln-detector-codebert' from Hugging Face Hub...
 [+] Model loaded successfully.
 
 [*] Scanning file: ./path/to/test_buffer_overflow.c
